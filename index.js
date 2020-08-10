@@ -18,5 +18,5 @@ function destructivelyRemoveFirstKitten() {
 }
 
 
-const array2 = kittens.concat('Broom');
-console.log(array2);
+const appendKitten = kittens.concat('Broom');
+console.log(appendKitten);
