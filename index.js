@@ -20,4 +20,5 @@ function destructivelyRemoveFirstKitten() {
 
 
 
-  const kittens = 
+  const kittens = ["Milo", "Otis", "Garfield"];
+  const 
