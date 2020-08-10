@@ -18,7 +18,5 @@ function destructivelyRemoveFirstKitten() {
 }
 
 
-const
+const array2 = 
 
-
- 
