@@ -20,6 +20,6 @@ function destructivelyRemoveFirstKitten() {
 
 
 
-  const kittens = ["Milo", "Otis", "Garfield"];
-  const appendKitten = kittens.concat("Broom");
+  kittens = ["Milo", "Otis", "Garfield"];
+  var appendKitten(name) = kittens.concat("Broom");
   console.log(kittens);
