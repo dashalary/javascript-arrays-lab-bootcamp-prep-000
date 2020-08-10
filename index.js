@@ -19,4 +19,4 @@ function destructivelyRemoveFirstKitten() {
 
 
 const array2 = kittens.concat('Broom');
-console.log(kittens);
+console.log(array2);
