@@ -1,5 +1,5 @@
 var kittens = ["Milo", "Otis", "Garfield"] //define your array here
-appendKitten();
+appendKitten("Broom");
 
 function destructivelyAppendKitten(name) {
 kittens.push("Ralph");
@@ -20,7 +20,5 @@ function destructivelyRemoveFirstKitten() {
 
 
 
-  const kittens = ["Milo", "Otis", "Garfield"];
-  const moreKittens = [...kittens, "Broom"];
- 
+
  
